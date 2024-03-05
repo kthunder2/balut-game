@@ -1,7 +1,3 @@
-//Ali Hikmet Sagaltici
-//ID: 2585313
-
-
 #include<stdio.h>
 #include<time.h>
 #include<math.h>
